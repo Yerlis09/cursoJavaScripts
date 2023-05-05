@@ -50,3 +50,11 @@ console.log(x)
 
 let y = null;
 console.log(y)
+
+//Array
+let autos = ['BMW', 'AUDI']
+console.log(autos)
+
+//Empty String - tipo de dato String
+let z = '';
+console.log(z);

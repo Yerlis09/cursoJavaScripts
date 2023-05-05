@@ -35,3 +35,9 @@ console.log(typeof x)
 
 let y = null;
 console.log(typeof y)
+
+let autos = ['BMW', 'AUDI']
+console.log(typeof autos)
+
+let z = '';
+console.log(typeof z);
